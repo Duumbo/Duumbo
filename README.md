@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitri Bonanni-Surprenant</h1>
 <h3 align="center">Physics undergrad and coding enthusiast.</h3>
 
-- 🔭 I’m currently working on [hubbard_ed](https://github.com/Duumbo/impurity)
+- 🔭 I’m currently working on [An Impurity Solver for the Hubbard Model](https://github.com/Duumbo/impurity)
 
 - 🌱 I’m currently learning **Rust and C**
 
