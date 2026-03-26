@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitri Bonanni-Surprenant</h1>
-<h3 align="center">Physics undergrad and coding enthusiast.</h3>
+<h3 align="center">Physics masters and coding enthusiast.</h3>
 
 - 🔭 I’m currently working on [An Impurity Solver for the Hubbard Model](https://github.com/Duumbo/impurity)
 
